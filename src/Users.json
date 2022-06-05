@@ -1,0 +1,11 @@
+[
+    {"id":"1","userName":"Alex","password":"a1234","position":"employee","mail":"Alex@gml.cb","picture":""},
+    {"id":"2","userName":"Moshe","password":"m1234", "position":"user","mail":"sdf@gml.cb","picture":""},
+    {"id":"3","userName":"Haim","password":"h1234", "position":"user","mail":"nvn@gml.cb","picture":""},
+    {"id":"4","userName":"Ido","password":"i1234", "position":"employee","mail":"gfdfg@gml.cb","picture":""},
+    {"id":"5","userName":"Mark","password":"m1234", "position":"employee","mail":"gfre@gml.cb","picture":""},
+    {"id":"6","userName":"Zev","password":"z1234", "position":"employee","mail":"xvxccx@gml.cb","picture":""},
+    {"id":"7","userName":"Shai","password":"s1234", "position":"user","mail":"dsfd@gml.cb","picture":""},
+    {"id":"8","userName":"a","password":"1", "position":"employee","mail":"ewre@gml.cb","picture":""},
+    {"id":"9","userName":"b","password":"1", "position":"user","mail":"xcvcx@gml.cb","picture":""}
+]
